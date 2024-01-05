@@ -4,8 +4,7 @@ C:Croga
 M:4/4
 Q:140
 K:Dmaj
-|: D2 DF EF .A d-|d2 de cB A B-|B2 Bd cB A B-|B2 Bd fe d2 |
-D2 DF EF .A d-|d2 de cB A B-|B2 Bd cB A B |FA FE DC D2|
-B2 BA FE-E2 | ED EF D D2 B-| B2 BA FE-E2|ED FE D D2|
-B2 BA FE-E2 |ED EF AB-B2|BA Bc de-e2
-
+|: D2 DF EF .A d-| d2 de cB A B-|B2 Bd cB A B-| B2 Bd fe d2 |
+D2 DF EF .A d-| d2 de cB A B-|B2 Bd cB AB | FA FE DC D2 |
+B2 BA FE-E2 | ED EF D D2 B-| B2 BA FE-E2 | ED FE D D2 |
+B2 BA FE-E2 | ED EF AB-B2|BA Bc de-e2 | fegfe
